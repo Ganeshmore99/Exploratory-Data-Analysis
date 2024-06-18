@@ -18,8 +18,8 @@ Customer churn is a critical issue in the telecom industry, impacting revenue an
 ## Data Description
 The dataset used in this project includes various features related to customer demographics, account information, and service usage. Key features include:
 
-CustomerID: Unique identifier for each customer
-Gender: Gender of the customer
+CustomerID: Unique identifier for each customer <br />
+Gender: Gender of the customer <br />
 SeniorCitizen: Whether the customer is a senior citizen
 Partner: Whether the customer has a partner
 Dependents: Whether the customer has dependents
