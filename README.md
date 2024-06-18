@@ -20,25 +20,25 @@ The dataset used in this project includes various features related to customer d
 
 CustomerID: Unique identifier for each customer <br />
 Gender: Gender of the customer <br />
-SeniorCitizen: Whether the customer is a senior citizen
-Partner: Whether the customer has a partner
-Dependents: Whether the customer has dependents
-Tenure: Number of months the customer has stayed with the company
-PhoneService: Whether the customer has phone service
-MultipleLines: Whether the customer has multiple lines
-InternetService: Type of internet service the customer has
-OnlineSecurity: Whether the customer has online security service
-OnlineBackup: Whether the customer has online backup service
-DeviceProtection: Whether the customer has device protection service
-TechSupport: Whether the customer has tech support service
-StreamingTV: Whether the customer has streaming TV service
-StreamingMovies: Whether the customer has streaming movies service
-Contract: Type of contract the customer has
-PaperlessBilling: Whether the customer uses paperless billing
-PaymentMethod: Method of payment
-MonthlyCharges: Monthly charges for the customer
-TotalCharges: Total charges for the customer
-Churn: Whether the customer has churned
+SeniorCitizen: Whether the customer is a senior citizen<br />
+Partner: Whether the customer has a partner<br />
+Dependents: Whether the customer has dependents<br />
+Tenure: Number of months the customer has stayed with the company<br />
+PhoneService: Whether the customer has phone service<br />
+MultipleLines: Whether the customer has multiple lines<br />
+InternetService: Type of internet service the customer has<br />
+OnlineSecurity: Whether the customer has online security service<br />
+OnlineBackup: Whether the customer has online backup service<br />
+DeviceProtection: Whether the customer has device protection service<br />
+TechSupport: Whether the customer has tech support service<br />
+StreamingTV: Whether the customer has streaming TV service<br />
+StreamingMovies: Whether the customer has streaming movies service<br />
+Contract: Type of contract the customer has<br />
+PaperlessBilling: Whether the customer uses paperless billing<br />
+PaymentMethod: Method of payment<br />
+MonthlyCharges: Monthly charges for the customer<br />
+TotalCharges: Total charges for the customer<br />
+Churn: Whether the customer has churned<br />
 
 ## Exploratory Data Analysis
 The EDA process involves several steps:
@@ -53,6 +53,7 @@ Contract Type: Customers with month-to-month contracts have higher churn rates c
 Monthly Charges: Higher monthly charges are associated with higher churn rates.
 Services: Customers without internet service, online security, and tech support are more likely to churn.
 Payment Method: Customers using electronic checks have a higher churn rate compared to other payment methods.
+
 ## Conclusion
 The analysis provides valuable insights into the factors contributing to customer churn in the telecom industry. By focusing on these key areas, the business can implement targeted strategies to improve customer retention and reduce churn rates.
 
